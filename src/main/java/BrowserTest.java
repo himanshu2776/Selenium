@@ -13,5 +13,10 @@ public class BrowserTest {
 		
 		
 	}
+	
+	public void a(){
+		
+	System.out.println("vvv");
+	}
 
 }
